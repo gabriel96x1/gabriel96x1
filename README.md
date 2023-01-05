@@ -1,7 +1,7 @@
 ### Hi there, I'm gabriel96x1 👋
 ##### I'm an Android Software Developer from Mexico.
 - 💼 Android Software Engineer at [Luxoft](https://www.luxoft.com/)
-- ❤️ Love work in challenging Android Projects, Kotlin and shooting apples :bow_and_arrow: :apple:
+- ❤️ Love work in challenging Software Projects, Kotlin and shooting apples :bow_and_arrow: :apple:
 - 🌱 I’m currently learning some backend
 
 #### Tech
