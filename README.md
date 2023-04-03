@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel Rodriguez 👋
 ##### I'm an Android Software Engineer from Mexico.
-- 💼 Android Software Engineer at [Luxoft](https://www.luxoft.com/)
+- 💼 Android Software Engineer at [IBM](https://www.ibm.com/)
 - ❤️ Love work in challenging Software Projects, Kotlin and shooting apples :bow_and_arrow: :apple:
 - 🌱 I’m currently learning some backend
 
