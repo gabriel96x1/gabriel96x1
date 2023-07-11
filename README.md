@@ -2,7 +2,7 @@
 ##### I'm an Android Software Engineer from Mexico.
 - 💼 Android Software Engineer at [IBM](https://www.ibm.com/)
 - ❤️ Love work in challenging Software Projects, Kotlin and shooting apples :bow_and_arrow: :apple:
-- 🌱 I’m currently learning some backend
+- 🌱 Learning to not hate Apple UwU I mean learning iOS
 
 #### Tech
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
