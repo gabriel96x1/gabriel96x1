@@ -1,8 +1,11 @@
 ### Hi there, I'm Gabriel Rodriguez 👋
 ##### I'm an Android Software Engineer from Mexico.
-- 💼 Android Software Engineer at [IBM](https://www.ibm.com/)
+- 💼 Android Software Engineer at [The Home Depot](https://www.homedepot.com/)
 - ❤️ Love work in challenging Software Projects, Kotlin and shooting apples :bow_and_arrow: :apple:
 - 🌱 Learning to not hate Apple UwU I mean learning iOS
+
+#### If you're Spanish speaker follow me in [TikTok](https://www.tiktok.com/@gabs.mobdev?is_from_webapp=1&sender_device=pc)!
+#### Si hablas español ¡Sígueme en [TikTok](https://www.tiktok.com/@gabs.mobdev?is_from_webapp=1&sender_device=pc)!
 
 #### Tech
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
