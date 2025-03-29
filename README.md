@@ -19,7 +19,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel96x1)](https://github.com/gabriel96x1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel96x1&layout=compact)](https://github.com/gabriel96x1/github-readme-stats)
 
 #### Something more
 ![GabrielRZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel96x1&count_private=true)
