@@ -25,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel96x1&layout=compact&theme=gruvbox_light)](https://github.com/gabriel96x1/github-readme-stats)
 
 #### Stats
-![GabrielRZ](https://github-readme-stats.vercel.app/api?username=gabriel96x1&count_private=true&theme=gruvbox_light)
+![GabrielRZ](https://github-readme-stats.vercel.app/api?username=gabriel96x1&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=gruvbox_light)
 
 #### Currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yaidi&repo=eleuteria-scribe-flow&theme=gruvbox_light)](https://github.com/Yaidi/eleuteria-scribe-flow)
